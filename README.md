@@ -1,1 +1,1 @@
-# FeyNN-Labs-Solutions-Internship
+# Projects
